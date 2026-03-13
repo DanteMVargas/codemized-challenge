@@ -88,7 +88,7 @@ User (1) ───── (N) Comment (as author)
 ### Start
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/DanteMVargas/codemized-challenge.git
 cd codemized-challenge
 docker compose up
 ```

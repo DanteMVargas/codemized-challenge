@@ -89,7 +89,7 @@ User (1) ───── (N) Comment (as author)
 
 ```bash
 git clone <your-repo-url>
-cd taskmanager
+cd codemized-challenge
 docker compose up
 ```
 
